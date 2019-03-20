@@ -1,0 +1,7 @@
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\CatchWizard\CatchWizard\bin\Debug\CatchWizard.exe.config
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\CatchWizard\CatchWizard\bin\Debug\CatchWizard.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\CatchWizard\CatchWizard\bin\Debug\CatchWizard.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\CatchWizard\CatchWizard\obj\Debug\CatchWizard.csprojAssemblyReference.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\CatchWizard\CatchWizard\obj\Debug\CatchWizard.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\CatchWizard\CatchWizard\obj\Debug\CatchWizard.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\CatchWizard\CatchWizard\obj\Debug\CatchWizard.pdb
